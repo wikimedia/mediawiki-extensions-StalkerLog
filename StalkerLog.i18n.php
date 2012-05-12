@@ -404,6 +404,17 @@ $messages['nah'] = array(
 	'stalkerlog-log-logout' => 'ōmoquīzac.',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Jon Harald Søby
+ */
+$messages['nb'] = array(
+	'stalkerlog-desc' => 'Legger til en [[Special:Log/stalkerlog|logg]] over når brukere logger inn eller ut.',
+	'stalkerlog-log-login' => 'logget inn.',
+	'stalkerlog-log-logout' => 'logget ut.',
+	'stalkerlog-log-type' => 'Logg over inn- og utlogginger',
+	'stalkerlog-log-text' => 'Dett er en logg over inn- og utlogginger.',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
@@ -424,17 +435,6 @@ $messages['nn'] = array(
 	'stalkerlog-log-logout' => 'logga ut.',
 	'stalkerlog-log-type' => 'Logg over inn- og utloggingar',
 	'stalkerlog-log-text' => 'Dette er ein logg over inn- og utloggingar.',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
-$messages['nb'] = array(
-	'stalkerlog-desc' => 'Legger til en [[Special:Log/stalkerlog|logg]] over når brukere logger inn eller ut.',
-	'stalkerlog-log-login' => 'logget inn.',
-	'stalkerlog-log-logout' => 'logget ut.',
-	'stalkerlog-log-type' => 'Logg over inn- og utlogginger',
-	'stalkerlog-log-text' => 'Dett er en logg over inn- og utlogginger.',
 );
 
 /** Occitan (Occitan)
