@@ -61,7 +61,7 @@ $messages['arz'] = array(
 	'stalkerlog-log-text' => 'ده سجل بعمليات تسجيل الدخول والخروج لليوزرز.',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -132,7 +132,7 @@ $messages['de'] = array(
 	'stalkerlog-log-text' => 'Dies ist das Logbuch der An- und Abmeldungen von Benutzern.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -227,7 +227,7 @@ $messages['frp'] = array(
 	'stalkerlog-log-logout' => 'dèbranchiê.',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -262,7 +262,7 @@ $messages['he'] = array(
 	'stalkerlog-log-text' => 'זהו יומן הכניסות והיציאות מהחשבון.',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
