@@ -387,7 +387,7 @@ $messages['mk'] = array(
 	'stalkerlog-log-text' => 'Ова е дневник на најавувањата и одјавувањата на корисниците.',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -404,9 +404,7 @@ $messages['nah'] = array(
 	'stalkerlog-log-logout' => 'ōmoquīzac.',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $messages['nb'] = array(
 	'stalkerlog-desc' => 'Legger til en [[Special:Log/stalkerlog|logg]] over når brukere logger inn eller ut.',
 	'stalkerlog-log-login' => 'logget inn.',
