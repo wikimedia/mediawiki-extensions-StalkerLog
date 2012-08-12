@@ -560,6 +560,14 @@ $messages['sv'] = array(
 	'stalkerlog-log-text' => 'Det här är en logg över in och utloggningar.',
 );
 
+/** Tamil (தமிழ்)
+ * @author Karthi.dr
+ */
+$messages['ta'] = array(
+	'stalkerlog-log-login' => 'புகுபதிகையில் உள்ளீர்கள்.',
+	'stalkerlog-log-logout' => 'விடுபதிகை செய்துவிட்டீர்கள்.',
+);
+
 /** Telugu (తెలుగు)
  * @author Veeven
  */
