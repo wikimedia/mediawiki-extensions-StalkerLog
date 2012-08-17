@@ -601,6 +601,14 @@ $messages['tr'] = array(
 	'stalkerlog-log-text' => 'Bu, kullanıcı oturum açma ve kapama işlemlerinin bir kaydıdır.',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'stalkerlog-log-login' => 'لاگ ان.',
+	'stalkerlog-log-logout' => 'لاگ ان.',
+);
+
 /** Vietnamese (Tiếng Việt)
  * @author Vinhtantran
  */
