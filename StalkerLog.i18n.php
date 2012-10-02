@@ -61,7 +61,7 @@ $messages['arz'] = array(
 	'stalkerlog-log-text' => 'ده سجل بعمليات تسجيل الدخول والخروج لليوزرز.',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -404,7 +404,7 @@ $messages['nah'] = array(
 	'stalkerlog-log-logout' => 'ōmoquīzac.',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $messages['nb'] = array(
 	'stalkerlog-desc' => 'Legger til en [[Special:Log/stalkerlog|logg]] over når brukere logger inn eller ut.',
 	'stalkerlog-log-login' => 'logget inn.',
@@ -424,7 +424,7 @@ $messages['nl'] = array(
 	'stalkerlog-log-text' => 'In dit logboek wordt opgeslagen wanneer gebruikers zich aan- en afgemeld hebben.',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Frokor
  */
 $messages['nn'] = array(
@@ -531,7 +531,7 @@ $messages['sk'] = array(
 	'stalkerlog-log-text' => 'Toto je záznam prihlásení a odhlásení používateľov.',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
@@ -540,7 +540,7 @@ $messages['sr-ec'] = array(
 	'stalkerlog-log-type' => 'Историја логовања корисника',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -636,7 +636,7 @@ $messages['yi'] = array(
 	'stalkerlog-log-logout' => 'אַרויסלאגירט',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Gzdavidwong
  */
 $messages['zh-hans'] = array(
@@ -647,7 +647,7 @@ $messages['zh-hans'] = array(
 	'stalkerlog-log-text' => '这是用户登录及退出的日志。',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Gzdavidwong
  * @author Wrightbus
  */
