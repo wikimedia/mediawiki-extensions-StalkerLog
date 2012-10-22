@@ -404,7 +404,8 @@ $messages['nah'] = array(
 	'stalkerlog-log-logout' => 'ōmoquīzac.',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎) */
+/** Norwegian Bokmål (norsk (bokmål)‎)
+ */
 $messages['nb'] = array(
 	'stalkerlog-desc' => 'Legger til en [[Special:Log/stalkerlog|logg]] over når brukere logger inn eller ut.',
 	'stalkerlog-log-login' => 'logget inn.',
@@ -658,4 +659,3 @@ $messages['zh-hant'] = array(
 	'stalkerlog-log-type' => '使用者身份驗證日誌',
 	'stalkerlog-log-text' => '這是用戶登入及登出的日誌。',
 );
-
