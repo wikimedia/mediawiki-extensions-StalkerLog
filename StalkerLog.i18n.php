@@ -521,6 +521,14 @@ $messages['ru'] = array(
 	'stalkerlog-log-text' => 'Это журнал, регистрирующий представления системе (вход) и завершение сеанса (выход) участников.',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'stalkerlog-log-login' => 'ප්‍රවිෂ්ට වී ඇත.',
+	'stalkerlog-log-logout' => 'නික්මී ඇත.',
+);
+
 /** Slovak (slovenčina)
  * @author Helix84
  */
