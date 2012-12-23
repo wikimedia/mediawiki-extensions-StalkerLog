@@ -610,6 +610,17 @@ $messages['tr'] = array(
 	'stalkerlog-log-text' => 'Bu, kullanıcı oturum açma ve kapama işlemlerinin bir kaydıdır.',
 );
 
+/** Ukrainian (українська)
+ * @author Base
+ */
+$messages['uk'] = array(
+	'stalkerlog-desc' => 'Додає [[Special:Log/stalkerlog|журнал]] входів та виходів користувачів',
+	'stalkerlog-log-login' => 'увійшов до системи.',
+	'stalkerlog-log-logout' => 'вийшов із системи.',
+	'stalkerlog-log-type' => 'Журнал аутентифікації користувачів',
+	'stalkerlog-log-text' => 'Це журнал входів та виходів користувачів.',
+);
+
 /** Urdu (اردو)
  * @author පසිඳු කාවින්ද
  */
