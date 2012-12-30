@@ -527,6 +527,7 @@ $messages['ru'] = array(
 $messages['si'] = array(
 	'stalkerlog-log-login' => 'ප්‍රවිෂ්ට වී ඇත.',
 	'stalkerlog-log-logout' => 'නික්මී ඇත.',
+	'stalkerlog-log-type' => 'පරිශීලක සහතික කිරීම් ලොගය',
 );
 
 /** Slovak (slovenčina)
