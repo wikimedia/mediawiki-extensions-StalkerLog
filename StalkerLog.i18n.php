@@ -525,9 +525,11 @@ $messages['ru'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
+	'stalkerlog-desc' => 'පරිශීලක පිවිසුම් හා නික්මයාම් [[Special:Log/stalkerlog|ලොගයක්]] එක් කරයි',
 	'stalkerlog-log-login' => 'ප්‍රවිෂ්ට වී ඇත.',
 	'stalkerlog-log-logout' => 'නික්මී ඇත.',
 	'stalkerlog-log-type' => 'පරිශීලක සහතික කිරීම් ලොගය',
+	'stalkerlog-log-text' => 'මෙය පරිශීලක පිවිසුම් හා නික්මයාම් ලොගයයි.',
 );
 
 /** Slovak (slovenčina)
