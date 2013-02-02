@@ -61,6 +61,17 @@ $messages['arz'] = array(
 	'stalkerlog-log-text' => 'ده سجل بعمليات تسجيل الدخول والخروج لليوزرز.',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'stalkerlog-desc' => "Amiesta [[Special:Log/stalkerlog|un rexistru]] d'anicios y zarros de sesión d'usuariu",
+	'stalkerlog-log-login' => 'coneutó.',
+	'stalkerlog-log-logout' => 'desconeutó.',
+	'stalkerlog-log-type' => "Rexistru de autenticación d'usuariu",
+	'stalkerlog-log-text' => "Esto ye un rexistru d'anicios y zarros de sesión d'usuariu.",
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
