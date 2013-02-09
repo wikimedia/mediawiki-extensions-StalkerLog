@@ -352,6 +352,14 @@ $messages['jv'] = array(
 	'stalkerlog-log-text' => 'Iki log panganggo sing mlebu lan metu log',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'stalkerlog-log-login' => 'შესული.',
+	'stalkerlog-log-logout' => 'გამოსული.',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author Lovekhmer
  * @author Thearith
@@ -519,6 +527,14 @@ $messages['ro'] = array(
 	'stalkerlog-log-login' => 'autentificat',
 	'stalkerlog-log-logout' => 'deconectat',
 	'stalkerlog-log-type' => 'Jurnalul autentificărilor utilizatorilor',
+);
+
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'stalkerlog-log-login' => 'trasute.',
+	'stalkerlog-log-logout' => 'assute.',
 );
 
 /** Russian (русский)
