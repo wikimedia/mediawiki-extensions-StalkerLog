@@ -373,6 +373,17 @@ $messages['km'] = array(
 	'stalkerlog-log-text' => 'នេះ​ជា​កំណត់ហេតុ​នៃ​ការ​កត់ឈ្មោះចូលនិង​ការ​កត់ឈ្មោះចេញ​របស់​អ្នកប្រើប្រាស់។',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'stalkerlog-desc' => '사용자 로그인과 로그아웃의 [[Special:Log/stalkerlog|기록]]를 추가합니다',
+	'stalkerlog-log-login' => '사용자가 로그인했습니다.',
+	'stalkerlog-log-logout' => '사용자가 로그아웃했습니다.',
+	'stalkerlog-log-type' => '사용자 인증 기록',
+	'stalkerlog-log-text' => '사용자 로그인과 로그아웃 기록입니다.',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
