@@ -14,10 +14,11 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Purodha
+ * @author Shirayuki
  * @author The Evil IP address
  */
 $messages['qqq'] = array(
-	'stalkerlog-desc' => '{{desc}}',
+	'stalkerlog-desc' => '{{desc|name=Stalker Log|url=http://www.mediawiki.org/wiki/Extension:StalkerLog}}',
 );
 
 /** Gheg Albanian (Gegë)
