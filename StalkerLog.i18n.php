@@ -545,8 +545,11 @@ $messages['ro'] = array(
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
+	'stalkerlog-desc' => "Aggiunge [[Special:Log/stalkerlog|'n'archivije]] de le trasute e l'assute de l'utinde",
 	'stalkerlog-log-login' => 'trasute.',
 	'stalkerlog-log-logout' => 'assute.',
+	'stalkerlog-log-type' => "Archivije de l'autendicazione de le utinde",
+	'stalkerlog-log-text' => "Quiste jè 'n'archivije de le trasute e l'assute de l'utinde.",
 );
 
 /** Russian (русский)
