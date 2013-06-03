@@ -435,7 +435,7 @@ $messages['nah'] = array(
 	'stalkerlog-log-logout' => 'ōmoquīzac.',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  */
 $messages['nb'] = array(
 	'stalkerlog-desc' => 'Legger til en [[Special:Log/stalkerlog|logg]] over når brukere logger inn eller ut.',
@@ -456,7 +456,7 @@ $messages['nl'] = array(
 	'stalkerlog-log-text' => 'In dit logboek wordt opgeslagen wanneer gebruikers zich aan- en afgemeld hebben.',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Frokor
  */
 $messages['nn'] = array(
