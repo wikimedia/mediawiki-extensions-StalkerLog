@@ -522,13 +522,14 @@ $messages['pt'] = array(
 
 /** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
+ * @author 555
  */
 $messages['pt-br'] = array(
-	'stalkerlog-desc' => 'Adiciona [[Special:Log/stalkerlog|um registro]] de autenticações e desautenticações de utilizadores',
-	'stalkerlog-log-login' => 'autenticado.',
-	'stalkerlog-log-logout' => 'desautenticado.',
-	'stalkerlog-log-type' => 'Registro de autenticação de utilizadores',
-	'stalkerlog-log-text' => 'Este é um registro de autenticações e desautenticações de utilizadores.',
+	'stalkerlog-desc' => 'Adiciona [[Special:Log/stalkerlog|um registro]] de login e logout dos usuários',
+	'stalkerlog-log-login' => 'fez login.',
+	'stalkerlog-log-logout' => 'fez logout.',
+	'stalkerlog-log-type' => 'Registro de autenticação dos usuários',
+	'stalkerlog-log-text' => 'Segue-se um registro de logins e logouts dos usuários.',
 );
 
 /** Romanian (română)
