@@ -119,7 +119,7 @@ $messages['bs'] = array(
 	'stalkerlog-log-text' => 'Ovo je zapisnik korisničkih prijava i odjava.',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Matěj Grabovský
  */
 $messages['cs'] = array(
