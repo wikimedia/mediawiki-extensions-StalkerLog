@@ -205,6 +205,14 @@ $messages['eu'] = array(
 	'stalkerlog-log-logout' => 'Saio-irteera egina.',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'stalkerlog-log-login' => 'وارد شدن.',
+	'stalkerlog-log-logout' => 'خارج شدن.',
+);
+
 /** Finnish (suomi)
  * @author Mobe
  * @author Str4nd
