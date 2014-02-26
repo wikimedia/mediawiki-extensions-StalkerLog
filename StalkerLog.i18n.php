@@ -211,6 +211,7 @@ $messages['eu'] = array(
 $messages['fa'] = array(
 	'stalkerlog-log-login' => 'وارد شدن.',
 	'stalkerlog-log-logout' => 'خارج شدن.',
+	'stalkerlog-log-type' => 'سیاههٔ اعتبارنامهٔ کاربر',
 );
 
 /** Finnish (suomi)
