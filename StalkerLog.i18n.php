@@ -209,9 +209,11 @@ $messages['eu'] = array(
  * @author Armin1392
  */
 $messages['fa'] = array(
+	'stalkerlog-desc' => 'افزودن [[Special:Log/stalkerlog|یک سیاهه]] ورودی‌های و خروجی‌های کاربر',
 	'stalkerlog-log-login' => 'وارد شدن.',
 	'stalkerlog-log-logout' => 'خارج شدن.',
 	'stalkerlog-log-type' => 'سیاههٔ اعتبارنامهٔ کاربر',
+	'stalkerlog-log-text' => 'این یک سیاهه ورودی‌ها و خروجی‌های کاربری است.',
 );
 
 /** Finnish (suomi)
