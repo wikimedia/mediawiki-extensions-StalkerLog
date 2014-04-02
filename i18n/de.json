@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Als-Holder",
+            "DaSch",
+            "Kghbln",
+            "Revolus"
+        ]
+    },
+    "stalkerlog-desc": "Ergänzt ein [[Special:Log/stalkerlog|Logbuch]] der An- und Abmeldungen von Benutzern",
+    "stalkerlog-log-login": "meldete sich an.",
+    "stalkerlog-log-logout": "meldete sich ab.",
+    "stalkerlog-log-type": "Authentifizierungs-Logbuch",
+    "stalkerlog-log-text": "Dies ist das Logbuch der An- und Abmeldungen von Benutzern."
+}

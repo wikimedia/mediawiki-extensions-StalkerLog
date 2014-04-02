@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": []
+    },
+    "stalkerlog-desc": "Legger til en [[Special:Log/stalkerlog|logg]] over når brukere logger inn eller ut.",
+    "stalkerlog-log-login": "logget inn.",
+    "stalkerlog-log-logout": "logget ut.",
+    "stalkerlog-log-type": "Logg over inn- og utlogginger",
+    "stalkerlog-log-text": "Dett er en logg over inn- og utlogginger."
+}

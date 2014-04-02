@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Pras"
+        ]
+    },
+    "stalkerlog-desc": "Nambah [[Special:Log/stalkerlog|log]] panganggo sing mlebu lan metu log",
+    "stalkerlog-log-login": "wis mlebu log",
+    "stalkerlog-log-logout": "wis metu log",
+    "stalkerlog-log-type": "Log autentikasi panganggo",
+    "stalkerlog-log-text": "Iki log panganggo sing mlebu lan metu log"
+}

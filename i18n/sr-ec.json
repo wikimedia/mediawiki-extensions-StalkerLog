@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Михајло Анђелковић"
+        ]
+    },
+    "stalkerlog-log-login": "улогован.",
+    "stalkerlog-log-logout": "излогован.",
+    "stalkerlog-log-type": "Историја логовања корисника"
+}

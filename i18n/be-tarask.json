@@ -1,0 +1,13 @@
+{
+    "@metadata": {
+        "authors": [
+            "EugeneZelenko",
+            "Jim-by"
+        ]
+    },
+    "stalkerlog-desc": "Дадае [[Special:Log/stalkerlog|журнал]] уваходу і выхаду ўдзельнікаў",
+    "stalkerlog-log-login": "уваходы.",
+    "stalkerlog-log-logout": "выхады.",
+    "stalkerlog-log-type": "Журнал аўтэнтыфікацыі ўдзельнікаў",
+    "stalkerlog-log-text": "Гэта журнал уваходаў і выхадаў удзельнікаў."
+}

@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Cedric31",
+            "Grondin",
+            "Urhixidur"
+        ]
+    },
+    "stalkerlog-desc": "Ajoute [[Special:Log/stalkerlog|un journal]] des connexions des utilisateurs",
+    "stalkerlog-log-login": "connecté.",
+    "stalkerlog-log-logout": "déconnecté.",
+    "stalkerlog-log-type": "Journal d’authentification de l’utilisateur",
+    "stalkerlog-log-text": "Voici un journal des connexions et des déconnexions de l’utilisateur."
+}

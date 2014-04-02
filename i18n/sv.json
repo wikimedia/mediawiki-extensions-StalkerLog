@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "M.M.S."
+        ]
+    },
+    "stalkerlog-desc": "Lägger till en [[Special:Log/stalkerlog|logg]] över när användare loggar in eller ut",
+    "stalkerlog-log-login": "loggade in.",
+    "stalkerlog-log-logout": "loggade ut.",
+    "stalkerlog-log-type": "Logg över in och utloggningar",
+    "stalkerlog-log-text": "Det här är en logg över in och utloggningar."
+}
