@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Bennylin"
-        ]
-    },
-    "stalkerlog-desc": "Tambahkan [[Special:Log/stalkerlog|sebuah log]] untuk masuk log dan keluar log pengguna",
-    "stalkerlog-log-login": "telah masuk log.",
-    "stalkerlog-log-logout": "telah keluar log.",
-    "stalkerlog-log-type": "Log otentifikasi pengguna",
-    "stalkerlog-log-text": "Ini adalah log untuk masuk log dan keluar log pengguna."
+	"@metadata": {
+		"authors": [
+			"Bennylin"
+		]
+	},
+	"stalkerlog-desc": "Tambahkan [[Special:Log/stalkerlog|sebuah log]] untuk masuk log dan keluar log pengguna",
+	"stalkerlog-log-login": "telah masuk log.",
+	"stalkerlog-log-logout": "telah keluar log.",
+	"stalkerlog-log-type": "Log otentifikasi pengguna",
+	"stalkerlog-log-text": "Ini adalah log untuk masuk log dan keluar log pengguna."
 }

@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Jwitos",
-            "Leinad"
-        ]
-    },
-    "stalkerlog-desc": "Dodaje [[Special:Log/stalkerlog|rejestr]] logowań i wylogowań użytkowników",
-    "stalkerlog-log-login": "zalogowano.",
-    "stalkerlog-log-logout": "wylogowano.",
-    "stalkerlog-log-type": "Rejestr uwierzytelniania użytkownika",
-    "stalkerlog-log-text": "To jest rejestr logowań i wylogowań użytkowników."
+	"@metadata": {
+		"authors": [
+			"Jwitos",
+			"Leinad"
+		]
+	},
+	"stalkerlog-desc": "Dodaje [[Special:Log/stalkerlog|rejestr]] logowań i wylogowań użytkowników",
+	"stalkerlog-log-login": "zalogowano.",
+	"stalkerlog-log-logout": "wylogowano.",
+	"stalkerlog-log-type": "Rejestr uwierzytelniania użytkownika",
+	"stalkerlog-log-text": "To jest rejestr logowań i wylogowań użytkowników."
 }

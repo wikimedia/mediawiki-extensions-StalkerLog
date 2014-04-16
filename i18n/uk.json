@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Base"
-        ]
-    },
-    "stalkerlog-desc": "Додає [[Special:Log/stalkerlog|журнал]] входів та виходів користувачів",
-    "stalkerlog-log-login": "увійшов до системи.",
-    "stalkerlog-log-logout": "вийшов із системи.",
-    "stalkerlog-log-type": "Журнал аутентифікації користувачів",
-    "stalkerlog-log-text": "Це журнал входів та виходів користувачів."
+	"@metadata": {
+		"authors": [
+			"Base"
+		]
+	},
+	"stalkerlog-desc": "Додає [[Special:Log/stalkerlog|журнал]] входів та виходів користувачів",
+	"stalkerlog-log-login": "увійшов до системи.",
+	"stalkerlog-log-logout": "вийшов із системи.",
+	"stalkerlog-log-type": "Журнал аутентифікації користувачів",
+	"stalkerlog-log-text": "Це журнал входів та виходів користувачів."
 }

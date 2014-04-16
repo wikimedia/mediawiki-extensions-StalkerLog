@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Crazymadlover"
-        ]
-    },
-    "stalkerlog-desc": "Agrega [[Special:Log/stalkerlog|un registro]] de inicios y cierres de sesión de usuario",
-    "stalkerlog-log-login": "Conectado",
-    "stalkerlog-log-logout": "Desconectado",
-    "stalkerlog-log-type": "Registro de autenticación de usuario",
-    "stalkerlog-log-text": "Este es un registro de inicios y cierres de sesión de usuario."
+	"@metadata": {
+		"authors": [
+			"Crazymadlover"
+		]
+	},
+	"stalkerlog-desc": "Agrega [[Special:Log/stalkerlog|un registro]] de inicios y cierres de sesión de usuario",
+	"stalkerlog-log-login": "Conectado",
+	"stalkerlog-log-logout": "Desconectado",
+	"stalkerlog-log-type": "Registro de autenticación de usuario",
+	"stalkerlog-log-text": "Este es un registro de inicios y cierres de sesión de usuario."
 }

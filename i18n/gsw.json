@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Als-Holder"
-        ]
-    },
-    "stalkerlog-desc": "Fiegt e [[Special:Log/stalkerlog|Logbuech]] vu dr Aa- und Abmäldige zue",
-    "stalkerlog-log-login": "aagmäldet.",
-    "stalkerlog-log-logout": "abgmäldet.",
-    "stalkerlog-log-type": "Authentifizierigslogbuech",
-    "stalkerlog-log-text": "Des isch s Logbuech vu dr Aa- un Abmäldige."
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"stalkerlog-desc": "Fiegt e [[Special:Log/stalkerlog|Logbuech]] vu dr Aa- und Abmäldige zue",
+	"stalkerlog-log-login": "aagmäldet.",
+	"stalkerlog-log-logout": "abgmäldet.",
+	"stalkerlog-log-type": "Authentifizierigslogbuech",
+	"stalkerlog-log-text": "Des isch s Logbuech vu dr Aa- un Abmäldige."
 }

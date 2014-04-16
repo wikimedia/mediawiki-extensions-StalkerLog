@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gzdavidwong",
-            "Wrightbus"
-        ]
-    },
-    "stalkerlog-desc": "加入使用者登入及登出的[[Special:Log/stalkerlog|記錄]]",
-    "stalkerlog-log-login": "已登入",
-    "stalkerlog-log-logout": "已登出",
-    "stalkerlog-log-type": "使用者身份驗證日誌",
-    "stalkerlog-log-text": "這是用戶登入及登出的日誌。"
+	"@metadata": {
+		"authors": [
+			"Gzdavidwong",
+			"Wrightbus"
+		]
+	},
+	"stalkerlog-desc": "加入使用者登入及登出的[[Special:Log/stalkerlog|記錄]]",
+	"stalkerlog-log-login": "已登入",
+	"stalkerlog-log-logout": "已登出",
+	"stalkerlog-log-type": "使用者身份驗證日誌",
+	"stalkerlog-log-text": "這是用戶登入及登出的日誌。"
 }

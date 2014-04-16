@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "AnakngAraw"
-        ]
-    },
-    "stalkerlog-desc": "Nagdaragdag ng [[Special:Log/stalkerlog|isang talaan]] ng paglagda at pag-alis mula sa pagkakalagda ng tagagamit",
-    "stalkerlog-log-login": "nakalagda na.",
-    "stalkerlog-log-logout": "hindi na nakalagda.",
-    "stalkerlog-log-type": "Talaan ng pagpapatotoo ng tagagamit",
-    "stalkerlog-log-text": "Isa itong talaan ng mga mga paglagda at pag-alis mula sa pagkakalagda ng tagagamit."
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"stalkerlog-desc": "Nagdaragdag ng [[Special:Log/stalkerlog|isang talaan]] ng paglagda at pag-alis mula sa pagkakalagda ng tagagamit",
+	"stalkerlog-log-login": "nakalagda na.",
+	"stalkerlog-log-logout": "hindi na nakalagda.",
+	"stalkerlog-log-type": "Talaan ng pagpapatotoo ng tagagamit",
+	"stalkerlog-log-text": "Isa itong talaan ng mga mga paglagda at pag-alis mula sa pagkakalagda ng tagagamit."
 }
