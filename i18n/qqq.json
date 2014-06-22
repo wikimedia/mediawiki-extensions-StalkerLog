@@ -6,5 +6,6 @@
 			"The Evil IP address"
 		]
 	},
-	"stalkerlog-desc": "{{desc|name=Stalker Log|url=http://www.mediawiki.org/wiki/Extension:StalkerLog}}"
+	"stalkerlog-desc": "{{desc|name=Stalker Log|url=http://www.mediawiki.org/wiki/Extension:StalkerLog}}",
+	"stalkerlog-log-logout": "{{Identical|Logged out}}"
 }
