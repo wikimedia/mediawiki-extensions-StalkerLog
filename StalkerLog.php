@@ -37,18 +37,21 @@ $wgLogRestrictions['stalkerlog'] = 'stalkerlog-view-log';
 $wgLogActions['stalkerlog/login'] = 'stalkerlog-log-login';
 $wgLogActions['stalkerlog/logout'] = 'stalkerlog-log-logout';
 
+// add the log entry
+function addLogEntry( $action, $user ) {
+	$log = new LogPage( 'stalkerlog', false);
+	$log->addEntry( $action, $user->getUserPage(), '', array(), $user );
+}
+
 # Login hook function
 function wfStalkerLogin( &$user ) {
-
-	$log = new LogPage( 'stalkerlog', false);
-	$log->addEntry( 'login', $user->getUserPage(), '', null, $user );
+	addLogEntry( 'login', $user );
 	return true;
 }
 
 # Logout hook function
 function wfStalkerLogout( &$user, &$inject_html, $old_name ) {
-
-	$log = new LogPage( 'stalkerlog', false);
-	$log->addEntry( 'logout', Title::newFromText( NS_USER, $old_name ), '', null, User::newFromName( $old_name ) );
+	$user = User::newFromName( $old_name );
+	addLogEntry( 'logout', $user );
 	return true;
 }
