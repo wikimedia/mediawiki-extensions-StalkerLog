@@ -8,5 +8,8 @@
 		]
 	},
 	"stalkerlog-desc": "{{desc|name=Stalker Log|url=https://www.mediawiki.org/wiki/Extension:StalkerLog}}",
-	"stalkerlog-log-logout": "{{Identical|Logged out}}"
+	"stalkerlog-log-login": "Used as log line message",
+	"stalkerlog-log-logout": "{{Identical|Logged out}}",
+	"stalkerlog-log-type": "Used as log name",
+	"stalkerlog-log-text": "Used as log header"
 }
