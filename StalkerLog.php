@@ -9,21 +9,22 @@
  * (at your option) any later version.
  *
  * @author Chad Horohoe <innocentkiller@gmail.com>
- * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
+ * @license https://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  */
 
 $wgExtensionCredits['specialpage'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'StalkerLog',
 	'version'        => '0.7.0',
-	'url'            => 'http://mediawiki.org/wiki/Extension:StalkerLog',
+	'url'            => 'https://www.mediawiki.org/wiki/Extension:StalkerLog',
 	'author'         => '[mailto:innocentkiller@gmail.com Chad Horohoe]',
 	'descriptionmsg' => 'stalkerlog-desc',
+	'license-name'   => 'GPL-2.0+'
 );
 
 # Basic setup
 $wgMessagesDirs['StalkerLog'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['StalkerLog'] = dirname(__FILE__) . '/' . 'StalkerLog.i18n.php';
+$wgExtensionMessagesFiles['StalkerLog'] = __DIR__ . '/StalkerLog.i18n.php';
 $wgAvailableRights[] = 'stalkerlog-view-log';
 $wgGroupPermissions['*']['stalkerlog-view-log'] = true;
 $wgHooks['UserLoginComplete'][] = 'wfStalkerLogin';
