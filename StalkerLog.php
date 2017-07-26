@@ -12,25 +12,30 @@
  * @license https://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  */
 
+// Ensure that the script cannot be executed outside of MediaWiki.
+if ( !defined( 'MEDIAWIKI' ) ) {
+    die( 'This is an extension to MediaWiki and cannot be run standalone.' );
+}
+
+// Display extension properties on MediaWiki.
 $wgExtensionCredits['specialpage'][] = array(
-	'path'           => __FILE__,
-	'name'           => 'StalkerLog',
-	'version'        => '0.7.0',
-	'url'            => 'https://www.mediawiki.org/wiki/Extension:StalkerLog',
-	'author'         => '[mailto:innocentkiller@gmail.com Chad Horohoe]',
+	'path' => __FILE__,
+	'name' => 'StalkerLog',
+	'version' => '0.8.0',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:StalkerLog',
+	'author' => '[mailto:innocentkiller@gmail.com Chad Horohoe]',
 	'descriptionmsg' => 'stalkerlog-desc',
-	'license-name'   => 'GPL-2.0+'
+	'license-name' => 'GPL-2.0+'
 );
 
-# Basic setup
+// Basic setup
 $wgMessagesDirs['StalkerLog'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['StalkerLog'] = __DIR__ . '/StalkerLog.i18n.php';
 $wgAvailableRights[] = 'stalkerlog-view-log';
 $wgGroupPermissions['*']['stalkerlog-view-log'] = true;
 $wgHooks['UserLoginComplete'][] = 'wfStalkerLogin';
 $wgHooks['UserLogoutComplete'][] = 'wfStalkerLogout';
 
-# Log setup
+// Log setup
 $wgLogTypes[] = 'stalkerlog';
 $wgLogHeaders['stalkerlog'] = 'stalkerlog-log-text';
 $wgLogNames['stalkerlog'] = 'stalkerlog-log-type';
