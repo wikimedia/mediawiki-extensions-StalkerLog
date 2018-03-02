@@ -25,7 +25,7 @@ $wgExtensionCredits['specialpage'][] = array(
 	'url' => 'https://www.mediawiki.org/wiki/Extension:StalkerLog',
 	'author' => '[mailto:innocentkiller@gmail.com Chad Horohoe]',
 	'descriptionmsg' => 'stalkerlog-desc',
-	'license-name' => 'GPL-2.0+'
+	'license-name' => 'GPL-2.0-or-later'
 );
 
 // Basic setup
