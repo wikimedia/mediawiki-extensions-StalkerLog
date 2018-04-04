@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ans"
+			"Ans",
+			"Aefgh39622"
 		]
 	},
-	"stalkerlog-log-login": "เข้าสู่ระบบสำเร็จ"
+	"stalkerlog-desc": "เพิ่ม[[Special:Log/stalkerlog|ปูม]]การลงชื่อเข้าและลงชื่อออกของผู้ใช้",
+	"stalkerlog-log-login": "ลงชื่อเข้าแล้ว",
+	"stalkerlog-log-logout": "ลงชื่อออกแล้ว",
+	"stalkerlog-log-type": "ปูมการยืนยันตัวตนผู้ใช้",
+	"stalkerlog-log-text": "นี่คือปูมการลงชื่อเข้าและลงชื่อออกของผู้ใช้"
 }
