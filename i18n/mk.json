@@ -8,5 +8,6 @@
 	"stalkerlog-log-login": " се најави.",
 	"stalkerlog-log-logout": "се одјави.",
 	"stalkerlog-log-type": "Дневник на кориснички потврдувања",
-	"stalkerlog-log-text": "Ова е дневник на најавувањата и одјавувањата на корисниците."
+	"stalkerlog-log-text": "Ова е дневник на најавувањата и одјавувањата на корисниците.",
+	"right-stalkerlog-view-log": "Погл. дневници на кориснички најави и одјави"
 }
