@@ -2,12 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Eduardo.mps",
-			"555"
+			"555",
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"stalkerlog-desc": "Adiciona [[Special:Log/stalkerlog|um registro]] de login e logout dos usuários",
 	"stalkerlog-log-login": "fez login.",
 	"stalkerlog-log-logout": "fez logout.",
 	"stalkerlog-log-type": "Registro de autenticação dos usuários",
-	"stalkerlog-log-text": "Segue-se um registro de logins e logouts dos usuários."
+	"stalkerlog-log-text": "Segue-se um registro de logins e logouts dos usuários.",
+	"right-stalkerlog-view-log": "Ver registros de entradas e saídas de usuários"
 }
