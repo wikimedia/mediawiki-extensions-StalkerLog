@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Михајло Анђелковић"
+			"Михајло Анђелковић",
+			"BadDog"
 		]
 	},
 	"stalkerlog-log-login": "улогован.",
 	"stalkerlog-log-logout": "излогован.",
-	"stalkerlog-log-type": "Историја логовања корисника"
+	"stalkerlog-log-type": "Историја логовања корисника",
+	"right-stalkerlog-view-log": "преглед дневника корисничких пријава и одјава"
 }
