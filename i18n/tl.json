@@ -5,7 +5,7 @@
 			"Jojit fb"
 		]
 	},
-	"stalkerlog-desc": "Nagdaragdag ng [[Special:Log/stalkerlog|isang talaan]] ng paglagda at pag-alis mula sa pagkaka-login ng tagagamit",
+	"stalkerlog-desc": "Nagdaragdag ng [[Special:Log/stalkerlog|isang talaan]] ng mga pag-login at mga pag-logout ng tagagamit",
 	"stalkerlog-log-login": "nakalagda na.",
 	"stalkerlog-log-logout": "hindi na nakalagda.",
 	"stalkerlog-log-type": "Talaan ng pagpapatotoo ng tagagamit",
