@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Base"
+			"Base",
+			"Piramidion"
 		]
 	},
 	"stalkerlog-desc": "Додає [[Special:Log/stalkerlog|журнал]] входів та виходів користувачів",
 	"stalkerlog-log-login": "увійшов до системи.",
 	"stalkerlog-log-logout": "вийшов із системи.",
 	"stalkerlog-log-type": "Журнал аутентифікації користувачів",
-	"stalkerlog-log-text": "Це журнал входів та виходів користувачів."
+	"stalkerlog-log-text": "Це журнал входів та виходів користувачів.",
+	"right-stalkerlog-view-log": "перегляд журналів входу й виходу користувачів із системи"
 }
