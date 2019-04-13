@@ -7,5 +7,6 @@
 	"stalkerlog-log-logout": "logged out.",
 	"stalkerlog-log-type": "User authentication log",
 	"stalkerlog-log-text": "This is a log of user logins and logouts.",
+	"action-stalkerlog-view-log": "view logs of user logins and logouts",
 	"right-stalkerlog-view-log": "View logs of user logins and logouts"
 }

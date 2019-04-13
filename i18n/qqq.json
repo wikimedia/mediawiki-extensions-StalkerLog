@@ -13,5 +13,6 @@
 	"stalkerlog-log-logout": "{{Identical|Logged out}}",
 	"stalkerlog-log-type": "Used as log name",
 	"stalkerlog-log-text": "Used as log header",
+	"action-stalkerlog-view-log": "{{doc-action|stalkerlog-view-log}}",
 	"right-stalkerlog-view-log": "{{doc-right|stalkerlog-view-log}}"
 }
