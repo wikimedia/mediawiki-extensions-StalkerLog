@@ -11,5 +11,6 @@
 	"stalkerlog-log-logout": "fez logout.",
 	"stalkerlog-log-type": "Registro de autenticação dos usuários",
 	"stalkerlog-log-text": "Segue-se um registro de logins e logouts dos usuários.",
+	"action-stalkerlog-view-log": "Ver registros de entradas e saídas de usuários",
 	"right-stalkerlog-view-log": "Ver registros de entradas e saídas de usuários"
 }
