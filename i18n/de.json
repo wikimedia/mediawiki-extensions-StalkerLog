@@ -13,5 +13,6 @@
 	"stalkerlog-log-logout": "meldete sich ab.",
 	"stalkerlog-log-type": "Authentifizierungs-Logbuch",
 	"stalkerlog-log-text": "Dies ist das Logbuch der An- und Abmeldungen von Benutzern.",
+	"action-stalkerlog-view-log": "Logbücher der Benutzeran- und -abmeldungen anzusehen",
 	"right-stalkerlog-view-log": "Logbücher der Benutzeran- und -abmeldungen ansehen"
 }
