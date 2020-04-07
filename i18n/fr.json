@@ -2,10 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Cedric31",
+			"Gomoko",
 			"Grondin",
 			"Urhixidur",
-			"Wladek92",
-			"Gomoko"
+			"Wladek92"
 		]
 	},
 	"stalkerlog-desc": "Ajoute [[Special:Log/stalkerlog|un journal]] des connexions des utilisateurs",

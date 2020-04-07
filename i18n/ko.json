@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라",
-			"Ykhwong"
+			"Ykhwong",
+			"아라"
 		]
 	},
 	"stalkerlog-desc": "사용자 로그인과 로그아웃의 [[Special:Log/stalkerlog|기록]]를 추가합니다",

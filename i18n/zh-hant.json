@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gzdavidwong",
-			"Wrightbus",
 			"Cwlin0416",
+			"Gzdavidwong",
+			"Kly",
 			"LNDDYL",
-			"Kly"
+			"Wrightbus"
 		]
 	},
 	"stalkerlog-desc": "加入使用者登入及登出的[[Special:Log/stalkerlog|記錄]]",

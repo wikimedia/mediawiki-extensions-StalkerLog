@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Gzdavidwong",
-			"Mywood",
-			"Impersonator 1"
+			"Impersonator 1",
+			"Mywood"
 		]
 	},
 	"stalkerlog-desc": "添加用户登录与退出的[[Special:Log/stalkerlog|日志]]",

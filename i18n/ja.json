@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Aotake",
+			"Azeha",
 			"Fievarsty",
-			"Fryed-peach",
-			"Azeha"
+			"Fryed-peach"
 		]
 	},
 	"stalkerlog-desc": "利用者のログインとログアウトの[[Special:Log/stalkerlog|記録]]を追加する",

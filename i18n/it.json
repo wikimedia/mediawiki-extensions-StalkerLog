@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Melos",
-			"Beta16"
+			"Beta16",
+			"Melos"
 		]
 	},
 	"stalkerlog-desc": "Aggiunge [[Special:Log/stalkerlog|un registro]] dei login e dei logout degli utenti",
