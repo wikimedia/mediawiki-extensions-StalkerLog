@@ -8,7 +8,7 @@
 			"Revolus"
 		]
 	},
-	"stalkerlog-desc": "Ergänzt ein [[Special:Log/stalkerlog|Logbuch]] der An- und Abmeldungen von Benutzern",
+	"stalkerlog-desc": "Erweitert das Wiki um ein [[Special:Log/stalkerlog|Logbuch]] der An- und Abmeldungen von Benutzern",
 	"stalkerlog-log-login": "meldete sich an.",
 	"stalkerlog-log-logout": "meldete sich ab.",
 	"stalkerlog-log-type": "Authentifizierungs-Logbuch",
