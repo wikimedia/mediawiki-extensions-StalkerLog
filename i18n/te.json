@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Chaduvari",
 			"Veeven"
 		]
 	},
@@ -8,5 +9,5 @@
 	"stalkerlog-log-login": "లోనికి ప్రవేశించారు.",
 	"stalkerlog-log-logout": "నిష్క్రమించారు.",
 	"stalkerlog-log-type": "వాడుకరి అధీకరణల చిట్టా",
-	"stalkerlog-log-text": "ఇది వాడుకరి ప్రవేశాలు మరియు నిష్క్రమణల చిట్టా."
+	"stalkerlog-log-text": "ఇది వాడుకరి లాగిన్లు, లాగౌట్ల చిట్టా."
 }
