@@ -4,5 +4,11 @@
 			"Eleassar"
 		]
 	},
-	"stalkerlog-log-login": "prijavljen."
+	"stalkerlog-desc": "Doda [[Special:Log/stalkerlog|dnevnik]] prijav in odjav uporabnikov",
+	"stalkerlog-log-login": "prijavljen.",
+	"stalkerlog-log-logout": "odjavljen.",
+	"stalkerlog-log-type": "Dnevnik avtentikacij uporabnikov",
+	"stalkerlog-log-text": "To je dnevnik prijav in odjav uporabnikov.",
+	"action-stalkerlog-view-log": "ogled dnevnikov prijav in odjav uporabnikov",
+	"right-stalkerlog-view-log": "Ogledovanje dnevnika prijav in odjav uporabnikov"
 }
