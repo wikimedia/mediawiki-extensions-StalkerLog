@@ -4,9 +4,11 @@
 			"Toliño"
 		]
 	},
-	"stalkerlog-desc": "Engade [[Special:Log/stalkerlog|un rexistro]] de accesos e saídas do sistema",
-	"stalkerlog-log-login": "accedeu ao sistema.",
-	"stalkerlog-log-logout": "saíu do sistema.",
-	"stalkerlog-log-type": "Rexistro de autenticación de usuario",
-	"stalkerlog-log-text": "Este é un rexistro de accesos e saídas do sistema."
+	"stalkerlog-desc": "Engade [[Special:Log/stalkerlog|un rexistro]] das conexións e desconexións dos usuarios",
+	"stalkerlog-log-login": "conectouse.",
+	"stalkerlog-log-logout": "desconectouse.",
+	"stalkerlog-log-type": "Rexistro de autenticación de usuarios",
+	"stalkerlog-log-text": "Este é un rexistro das conexións e desconexións dos usuarios.",
+	"action-stalkerlog-view-log": "ver os rexistros de conexións e desconexións dos usuarios",
+	"right-stalkerlog-view-log": "Ver os rexistros de conexións e desconexións dos usuarios"
 }
